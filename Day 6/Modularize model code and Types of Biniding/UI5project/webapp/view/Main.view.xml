@@ -1,0 +1,23 @@
+<mvc:View xmlns:mvc="sap.ui.core.mvc" 
+          xmlns="sap.m" 
+          xmlns:f="sap.ui.layout.form"
+          controllerName="mickey.controller.Main">
+
+
+<!-- <Input id="idInp"></Input>
+<Button id="idbtn" text="Click Me" press="onPress"></Button> -->
+
+<f:SimpleForm >
+    <f:content>
+        <Label text="EmpID" ></Label>
+        <Input id="idEmpId" width="20%" value="{/empStr/empId}"></Input>
+        <Label text="Emp Name" ></Label>
+        <Input id="idEmpName" width="40%" value="{path: '/empStr/empName'}"></Input>
+        <Label text="Salary" ></Label>
+        <Input id="idSal" width="30%" value="100000"></Input>
+        <Label text="Currency" ></Label>
+        <Input id="idCurr" width="30%" value="USD"></Input>
+    </f:content>
+</f:SimpleForm>
+<!-- <Button text="Default" press="onDefault"></Button> -->
+</mvc:View>
