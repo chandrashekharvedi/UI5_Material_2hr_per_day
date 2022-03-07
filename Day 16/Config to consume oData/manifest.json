@@ -13,7 +13,7 @@
         "dataSources": {
             "anubhavService":{
                 "type": "OData",
-                "uri": "/sap/opu/odata/sap/ZJAN_2022_SRV/",
+                "uri": "/sap/opu/odata/sap/ZHPC_XX_ODATA_SRV/",
                 "settings": {
                     "odataVersion": "2.0"
                 }

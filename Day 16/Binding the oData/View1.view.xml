@@ -25,8 +25,5 @@
                 </items>
             </List>
         </content>
-        <footer>
-            <Toolbar />
-        </footer>
     </Page>
 </mvc:View>
