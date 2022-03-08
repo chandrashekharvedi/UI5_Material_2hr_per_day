@@ -1,1 +1,1 @@
-# UI5 Materail accoridng to 2 hrs per day
+# UI5 Materiall accordinng to 2 hrs per day
