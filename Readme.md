@@ -1,1 +1,1 @@
-# UI5 Materiall accordinng to 2 hrs per day
+# UI5 Material according to 2 hrs per day
